@@ -1,0 +1,1 @@
+Hangman with image art
